@@ -1,7 +1,7 @@
 Spider: Encounters
 ==================
 
-Spider: Encounters is the debug game from Pantagruel's Teeth. It is a role-playing card game inspired by the
+Spider: Encounters is the debut game from Pantagruel's Teeth. It is a role-playing card game inspired by the
 classic solitaire game, Spider. This software is released under the GNU General Public License (v3) and so will be
 freely available for download, play and modding.
 
