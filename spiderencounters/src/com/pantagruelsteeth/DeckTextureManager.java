@@ -1,8 +1,3 @@
-package com.pantagruelsteeth;
-
-import com.badlogic.gdx.Gdx;
-import com.badlogic.gdx.graphics.Texture;
-import com.badlogic.gdx.graphics.Texture.TextureFilter;
 // This file is part of "Spider: Encounters".
 //
 // "Spider: Encounters" is free software: you can redistribute it and/or modify
@@ -17,6 +12,12 @@ import com.badlogic.gdx.graphics.Texture.TextureFilter;
 //
 // You should have received a copy of the GNU General Public License
 // along with "Spider: Encounters".  If not, see <http://www.gnu.org/licenses/>.
+
+package com.pantagruelsteeth;
+
+import com.badlogic.gdx.Gdx;
+import com.badlogic.gdx.graphics.Texture;
+import com.badlogic.gdx.graphics.Texture.TextureFilter;
 
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 
