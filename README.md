@@ -31,9 +31,9 @@ removing your own character's cards boosts your party's battle focus, providing 
 the same deal in a parallel solitaire game, but must clear all your character cards while receives bonuses from their own cards instead.
 The first side to clear their opponent's character cards from their own solitaire game wins the battle.
 
-Friendly and enemy characters take turns to move cards in their respective solitaire games. As a solitaire game neither side can
-directly manipulate their opponent's cards. However, if all the cards of an opponent character are eliminated, then that character
-falls unconscious and no longer take its turns in the opponent's game.
+Friendly and enemy characters take turns to move cards in their respective solitaire games. As solitaire games, they are played
+independently. However, if all the cards of an opponent character are eliminated, then that character falls unconscious and can no longer
+take its turns in the opponent's game.
 
 The moves made by an opponent are largely a secret, but you will be informed of any character cards that they successfully clear. The
 same secrecy is afforded to the player. The order in which characters take turns is determined by their initiative, which is calculated
@@ -52,9 +52,11 @@ Some major differences from Spider:
 
 - If no more cards are available to be dealt, and there are no more useful moves, then it is possible to re-deal. Half the remaining cards
 will be dealt face-down and the other half will be taken back into the stock pile.
-- Characters differ in the number of ranks on their number cards, based upon defence rating. Defence rating can be anything from 1 through
-to 12. All characters have as a minimum an Ace, Jack, Queen and King. Additional ranks are granted for each point of defence rating.
-So for a defence rating of three, a complete sequence would be Ace, Two, Three, Jack, Queen and King.
+- Characters differ in the number of ranks on their number cards, based upon defence rating. Defence rating can be anything from 0 through
+to 12. All characters have as a minimum a Jack, Queen and King. Additional ranks are granted for each point of defence rating, from 1 (Ace)
+through to 12. So for a defence rating of three, a complete sequence would be Ace, Two, Three, Jack, Queen and King. An 11 and 12 number
+card is possible with a high enough defence rating. So the longest possible sequence is Ace, Two, Three, ... Ten, Eleven, Twelve, Jack, Queen
+and King.
 - Your own characters' cards are always dealt face-up, even if they are not the top card.
 
 Experience
