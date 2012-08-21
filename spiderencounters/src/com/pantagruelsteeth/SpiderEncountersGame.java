@@ -32,7 +32,7 @@ public class SpiderEncountersGame implements ApplicationListener
     deckTextureManager = new DeckTextureManager();
     Gdx.input.setInputProcessor(stage);
 
-    CardActor cardActor = new CardActor(deckTextureManager, Rank.Ace, Suit.Diamonds);
+    CardActor cardActor = new CardActor(deckTextureManager, Rank.Ten, Suit.Diamonds);
     cardActor.setBounds(100, 0, deckTextureManager.getCardWidth(), deckTextureManager.getCardHeight());
     stage.addActor(cardActor);
   }
